@@ -5,7 +5,7 @@
 
 写作提示见 https://github.com/su-da/notes/wiki
 
-有几个不同风格的例子可以看看。
+有几个不同风格的例子可以看看。 
 
 * [实验报告式(不推荐)](http://o.iee.io/tmp/report.pdf)
 * [博客式](http://o.iee.io/tmp/posts.pdf)
