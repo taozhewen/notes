@@ -8,7 +8,7 @@
 有几个不同风格的例子可以看看。 
 
 * [实验报告式(不推荐)](http://o.iee.io/tmp/report.pdf)
-* [博客式](http://o.iee.io/tmp/posts.pdf)
+* [博客式](http://o.iee.io/tmp/posts.pdf) 
 * 其他课程同学的例子
     * [助教](https://openmindclub.gitbooks.io/omooc-py/content/)
     * [规范一些的例子](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
